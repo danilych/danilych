@@ -20,6 +20,7 @@
 ![Hardhat](https://img.shields.io/badge/-Hardhat-090909?style=for-the-badge&logo=ethereum)
 ![Foundry](https://img.shields.io/badge/-Foundry-090909?style=for-the-badge&logo=ethereum)
 ![PyTeal](https://img.shields.io/badge/-PyTeal-090909?style=for-the-badge&logo=python)
+![Yul](https://img.shields.io/badge/-Yul-090909?style=for-the-badge&logo=solidity)
 
 - 💼 **Experience:** I bring a wealth of experience in developing, testing, and auditing smart contracts on Ethereum and Algorand blockchains.
 - 🧪 **Testing Tools:** I leverage cutting-edge tools such as Hardhat, Foundry, Medusa, and Echidna for comprehensive auditing and fuzzing tests.
