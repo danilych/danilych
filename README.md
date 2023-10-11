@@ -21,10 +21,13 @@
 ![Foundry](https://img.shields.io/badge/-Foundry-090909?style=for-the-badge&logo=ethereum)
 ![PyTeal](https://img.shields.io/badge/-PyTeal-090909?style=for-the-badge&logo=python)
 ![Yul](https://img.shields.io/badge/-Yul-090909?style=for-the-badge&logo=solidity)
+![Tealish](https://img.shields.io/badge/-Tealish-090909?style=for-the-badge&logo=algorand)
+![Teal](https://img.shields.io/badge/-Teal-090909?style=for-the-badge&logo=algorand)
+![Ethers](https://img.shields.io/badge/-Ethers.js-090909?style=for-the-badge&logo=javascript)
 
 - 💼 **Experience:** I bring a wealth of experience in developing, testing, and auditing smart contracts on Ethereum and Algorand blockchains.
 - 🧪 **Testing Tools:** I leverage cutting-edge tools such as Hardhat, Foundry, Medusa, and Echidna for comprehensive auditing and fuzzing tests.
-- 📝 **Algorand:** I'm well-versed in auditing smart contracts created using PyTeal and Beaker for Algorand, ensuring code quality and security. I leverage cutting-edge tools such as Tealer, and Graviton.
+- 📝 **Algorand:** I'm well-versed in auditing smart contracts created using Teal, Tealish, PyTeal and Beaker for Algorand, ensuring code quality and security. I leverage cutting-edge tools such as Tealer, and Graviton.
 - 🚀 **Blockchain Focus:** My primary focus is on auditing smart contracts, contributing to blockchain security, and continuously improving my cybersecurity skills. I try my best for protect web3 space.
 ### Follow me
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=x)](https://twitter.com/danilych45)
