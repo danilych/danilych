@@ -28,6 +28,9 @@
 ![PyTeal](https://img.shields.io/badge/-PyTeal-090909?style=for-the-badge&logo=python)
 ![Ethers](https://img.shields.io/badge/-Ethers.js-090909?style=for-the-badge&logo=javascript)
 ![Solana](https://img.shields.io/badge/-Solana-090909?style=for-the-badge&logo=solana)
+![NestJs](https://img.shields.io/badge/-NestJs-090909?style=for-the-badge&logo=nestjs)
+![Prisma](https://img.shields.io/badge/-Prisma-090909?style=for-the-badge&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 
 
 - 💼 **Experience:** I bring a wealth of experience in developing, testing, and auditing smart contracts on **Ethereum**, **Algorand** and **Solana** blockchains.
