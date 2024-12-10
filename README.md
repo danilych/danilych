@@ -9,7 +9,7 @@
 ![Yul](https://img.shields.io/badge/-Yul-090909?style=for-the-badge&logo=solidity)
 ![Tealish](https://img.shields.io/badge/-Tealish-090909?style=for-the-badge&logo=algorand)
 ![Teal](https://img.shields.io/badge/-Teal-090909?style=for-the-badge&logo=algorand)
-![Vyper](https://img.shields.io/badge/-Vyper-090909?style=for-the-badge&logo=python)
+![Vyper](https://img.shields.io/badge/-Vyper-purple?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools and Frameworks
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
