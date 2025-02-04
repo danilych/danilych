@@ -1,6 +1,6 @@
 ## I'am a ninja Software Engineer | Security Researcher
 
-### Languages
+## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
@@ -11,16 +11,20 @@
 ![Teal](https://img.shields.io/badge/-Teal-090909?style=for-the-badge&logo=algorand)
 ![Vyper](https://img.shields.io/badge/-Vyper-purple?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools and Frameworks
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![Remix](https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=remix)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=tailwindCss)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap5-090909?style=for-the-badge&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
-![NextJs](https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=next.js)
-![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
+### Experience
+Web3 Development & Auditing
+
+- 💼 Smart Contract Development & Auditing: Extensive experience in developing, testing, and securing smart contracts on Ethereum, Algorand, and Solana blockchains
+- 🧪 Security & Testing Tools: Utilize industry-leading tools like Hardhat, Foundry, Echidna, Medusa, Certora, Halmos, Slither, and Mythril for auditing, fuzz testing, and vulnerability detection
+- 📜 Ethereum & EVM Expertise: Deep knowledge of Solidity, ERC standards, and DeFi protocols, with hands-on experience deploying Aave, Velodrome V2, PancakeSwap V3, and custom AMMs
+- 🔍 Algorand Development & Auditing: Expertise in smart contract security for Teal, Tealish, PyTeal, and Beaker, using tools like Tealer and Graviton for verification and analysis
+- ⚡ Blockchain Infrastructure & Scaling: Experience with EVM-compatible chains, Avalanche, Layer 2 solutions, zk-rollups, and gas optimizations
+- 🚀 Security-First Approach: Dedicated to protecting the Web3 space, specializing in identifying vulnerabilities, enhancing security models, and conducting comprehensive audits.
+
+### Technology Stack & Tools
+
+**Blockchain & Smart Contract Development***
+
 ![Ethereum](https://img.shields.io/badge/-Ethereum-090909?style=for-the-badge&logo=ethereum)
 ![Algorand](https://img.shields.io/badge/-Algorand-090909?style=for-the-badge&logo=algorand)
 ![Echidna](https://img.shields.io/badge/-Echidna-090909?style=for-the-badge&logo=ethereum)
@@ -29,17 +33,28 @@
 ![PyTeal](https://img.shields.io/badge/-PyTeal-090909?style=for-the-badge&logo=python)
 ![Ethers](https://img.shields.io/badge/-Ethers.js-090909?style=for-the-badge&logo=javascript)
 ![Solana](https://img.shields.io/badge/-Solana-090909?style=for-the-badge&logo=solana)
+
+
+**Infrastructure & Backend**
+
+![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
 ![NestJs](https://img.shields.io/badge/-NestJs-090909?style=for-the-badge&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/-Prisma-090909?style=for-the-badge&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-090909?style=for-the-badge&logo=elastic)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 
+**Frontend & Web**
 
-- 💼 **Experience:** I bring a wealth of experience in developing, testing, and auditing smart contracts on **Ethereum**, **Algorand** and **Solana** blockchains.
-- 🧪 **Testing Tools:** I leverage cutting-edge tools such as Hardhat, Foundry, Medusa, Certora, Halmos and Echidna for comprehensive auditing and fuzzing tests.
-- 📝 **Algorand:** I'm well-versed in auditing smart contracts created using Teal, Tealish, PyTeal and Beaker for Algorand, ensuring code quality and security. I leverage cutting-edge tools such as Tealer, and Graviton.
-- 🚀 **Blockchain Focus:** My primary focus is on auditing smart contracts, contributing to blockchain security, and continuously improving my cybersecurity skills. I try my best for protect web3 space.
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Remix](https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=remix)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=tailwindCss)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap5-090909?style=for-the-badge&logo=bootstrap)
+![NextJs](https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=next.js)
+
 ### Follow me
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=x)](https://twitter.com/danilych45)
 
