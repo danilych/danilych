@@ -32,6 +32,8 @@
 ![NestJs](https://img.shields.io/badge/-NestJs-090909?style=for-the-badge&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/-Prisma-090909?style=for-the-badge&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-090909?style=for-the-badge&logo=elastic)
 
 
 - 💼 **Experience:** I bring a wealth of experience in developing, testing, and auditing smart contracts on **Ethereum**, **Algorand** and **Solana** blockchains.
