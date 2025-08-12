@@ -9,7 +9,8 @@
 ![Yul](https://img.shields.io/badge/-Yul-090909?style=for-the-badge&logo=solidity)
 ![Tealish](https://img.shields.io/badge/-Tealish-090909?style=for-the-badge&logo=algorand)
 ![Teal](https://img.shields.io/badge/-Teal-090909?style=for-the-badge&logo=algorand)
-![Vyper](https://img.shields.io/badge/-Vyper-purple?style=for-the-badge&logo=python&logoColor=white)
+![Move](https://img.shields.io/badge/-Move-090909?style=for-the-badge&logo=rust)
+![Vyper](https://img.shields.io/badge/-Vyper-090909?style=for-the-badge&logo=python&logoColor=white)
 
 ### Experience
 Web3 Development & Auditing
@@ -33,6 +34,7 @@ Web3 Development & Auditing
 ![PyTeal](https://img.shields.io/badge/-PyTeal-090909?style=for-the-badge&logo=python)
 ![Ethers](https://img.shields.io/badge/-Ethers.js-090909?style=for-the-badge&logo=javascript)
 ![Solana](https://img.shields.io/badge/-Solana-090909?style=for-the-badge&logo=solana)
+![Sui](https://img.shields.io/badge/-Sui-090909?style=for-the-badge&logo=sui)
 
 
 **Infrastructure & Backend**
