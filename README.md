@@ -16,8 +16,8 @@
 Web3 Development & Auditing
 
 - 💼 Smart Contract Development & Auditing: Extensive experience in developing, testing, and securing smart contracts on Ethereum, Algorand, and Solana blockchains
-- 🧪 Security & Testing Tools: Utilize industry-leading tools like Hardhat, Foundry, Echidna, Medusa, Certora, Halmos, Slither, and Mythril for auditing, fuzz testing, and vulnerability detection
-- 📜 Ethereum & EVM Expertise: Deep knowledge of Solidity, ERC standards, and DeFi protocols, with hands-on experience deploying Aave, Velodrome V2, PancakeSwap V3, and custom AMMs
+- 🧪 Security & Testing Tools: Utilize industry-leading tools like Hardhat, Foundry, Echidna, Medusa, Certora, Halmos, Slither, and Mythril for auditing, fuzz testing, Sui Prover
+- 📜 Ethereum & EVM Expertise: Deep knowledge of Solidity, ERC standards, and DeFi protocols, with hands-on experience deploying Aave, Velodrome V2, PancakeSwap V3, GMX, Gnosis, and custom AMMs
 - 🔍 Algorand Development & Auditing: Expertise in smart contract security for Teal, Tealish, PyTeal, and Beaker, using tools like Tealer and Graviton for verification and analysis
 - ⚡ Blockchain Infrastructure & Scaling: Experience with EVM-compatible chains, Avalanche, Layer 2 solutions, zk-rollups, and gas optimizations
 - 🚀 Security-First Approach: Dedicated to protecting the Web3 space, specializing in identifying vulnerabilities, enhancing security models, and conducting comprehensive audits.
