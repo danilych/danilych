@@ -59,6 +59,3 @@ Web3 Development & Auditing
 
 ### Follow me
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=x)](https://twitter.com/danilych45)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilych&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
