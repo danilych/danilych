@@ -15,7 +15,7 @@ Specializing in Protocol Architecture, Applied Cryptography, and Formal Verifica
 ![Move](https://img.shields.io/badge/-Move-090909?style=for-the-badge&logo=rust)
 
 ### 🔬 Security & Verification Stack
-- **Formal Verification**: Certora (CVL), Halmos, K-Framework
+- **Formal Verification**: Certora (CVL), Halmos, K-Framework, Sui-prover
 - **Fuzzing & Symbolic Execution**: Echidna, Medusa, Foundry, Kontrol
 - **Static Analysis**: Slither, Aderyn, Mythril
 - **Frameworks**: Foundry (Forge/Cast), Hardhat, Soy
